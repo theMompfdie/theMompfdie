@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raimund Pließnig – also known as *The Mompfdie*
 
-Welcome to my GitHub profile. I'm an experienced systems engineer and security-focused automation developer based in Austria 🇦🇹.  
+Welcome to my GitHub profile. I'm an experienced systems architect and security-focused automation developer based in Austria 🇦🇹.  
 I work professionally at A1 Telekom Austria and also maintain a structured **HomeLab environment**, where I develop and test enterprise-grade solutions for:
 
 - Microsoft Public Key Infrastructure (PKI)
