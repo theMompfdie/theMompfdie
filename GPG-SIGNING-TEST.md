@@ -1,1 +1,0 @@
-Verified GPG signing test.
