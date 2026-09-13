@@ -12,6 +12,18 @@ I believe that great infrastructure deserves the same engineering standards as g
 
 ---
 
+# 💖 Support my work
+
+I build tools and share knowledge around PowerShell, Python, identity, security and infrastructure automation. If you find my work useful, you can support its continued development through [GitHub Sponsors](https://github.com/sponsors/theMompfdie).
+
+Sponsorship helps fund development time, test infrastructure, CI runs and documentation, so I can keep improving and sharing reliable, practical tools.
+
+**[Sponsor me on GitHub →](https://github.com/sponsors/theMompfdie)**
+
+Feedback, bug reports, testing and documentation contributions are also welcome. Thank you for supporting my work!
+
+---
+
 # 🚀 Professional Focus
 
 * Enterprise Infrastructure Architecture
